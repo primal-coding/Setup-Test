@@ -12,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void testMethod(){
+
         int tester = 1+1;
+        int dbltester = 2+2;
+
+        int finaltester = tester + dbltester;
     }
 }
